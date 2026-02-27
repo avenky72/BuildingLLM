@@ -1,4 +1,4 @@
-#Build an LLM that is comparable to GPT-2
+**Build an LLM that is comparable to GPT-2**
 
 Requirements:
 - Python 3.10+
